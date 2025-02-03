@@ -37,7 +37,7 @@
       "id": "r2",
       "top": 147.95,
       "left": -144,
-      "attrs": { "value": "100" }
+      "attrs": { "value": "220" }
     },
     {
       "type": "wokwi-resistor",
